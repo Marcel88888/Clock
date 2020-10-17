@@ -18,7 +18,7 @@ Project made for the subject Applications for Mobile Devices on the Universitat 
 * Processing - version 3.5.4
 
 ## Setup
-The program can be run on Processing suing Java mode.
+The program can be run on Processing using Java mode.
 
 ## Features
 * showing actual time
