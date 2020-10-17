@@ -1,4 +1,7 @@
-# processing, code, AndroidManifest.xml
+# processing, code, AndroidManifest.xml, img
+
+# img
+/img/
 
 # code
 /code/
